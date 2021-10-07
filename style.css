@@ -25,7 +25,7 @@ body {
 }
 .word-text {
   font-size: 2.75rem;
-  padding: 50px 40px;
+  padding: 15px 20px;
   text-align: center;
 }
 
@@ -97,9 +97,10 @@ button {
 
 @media screen and (max-width: 1000px) {
   .word-container {
-    margin: auto 10px;
+    margin: auto 20px;
   }
   .word-text {
-    font-size: 2.5rem;
+    font-size: 2rem;
+    
   }
 }
