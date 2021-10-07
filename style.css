@@ -52,6 +52,7 @@ button {
   color: white;
   cursor: pointer;
   box-shadow: 0 0.3rem rgba(11, 78, 45, 0.76);
+  height:2.5rem;
 }
 
 .new-word-btn:hover {
@@ -71,7 +72,8 @@ button {
 .twitter-btn:active {
   transform: translate(0, 0.3rem);
   box-shadow: 0 0.1rem rgba(255, 255, 255, 0.76);
-  color: rgb(5, 247, 255);  
+  color: rgb(5, 247, 255);
+  font-size:1.6rem;
 }
 
 .loader {
