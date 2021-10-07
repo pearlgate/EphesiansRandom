@@ -55,27 +55,23 @@ button {
 }
 
 .new-word-btn:hover {
-  color: white;
-  background-color: rgb(6, 129, 78);
+  color: white;  
 }
 
 .new-word-btn:active {
   transform: translate(0, 0.3rem);
   box-shadow: 0 0.1rem rgba(255, 255, 255, 0.76);
   color: white;
-  background-color: rgb(6, 129, 78);
-}
+ }
 
 .twitter-btn:hover {
-  color: cyan;
-  background-color: rgb(6, 129, 78);
+  color: cyan;  
 }
 
 .twitter-btn:active {
   transform: translate(0, 0.3rem);
   box-shadow: 0 0.1rem rgba(255, 255, 255, 0.76);
-  color: rgb(5, 247, 255);
-  background-color: rgb(6, 129, 78);
+  color: rgb(5, 247, 255);  
 }
 
 .loader {
