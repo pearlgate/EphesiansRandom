@@ -99,7 +99,8 @@ button {
     margin: auto 20px;
   }
   .word-text {
-    font-size: 2rem;
-    
+    font-size: 2rem;    
   }
+  .word-verse {
+    font-size : 1.6rem;
 }
